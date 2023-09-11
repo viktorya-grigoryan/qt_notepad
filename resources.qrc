@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rsc/Clear_doc.png</file>
+        <file>rsc/Close_all_doc.png</file>
+        <file>rsc/Close_doc.png</file>
+        <file>rsc/Copy_doc.png</file>
+        <file>rsc/Cut_doc.png</file>
+        <file>rsc/Exit.png</file>
+        <file>rsc/Explorer_doc.png</file>
+        <file>rsc/highlighter.xml</file>
+        <file>rsc/MainIcon.png</file>
+        <file>rsc/New_doc.png</file>
+        <file>rsc/Open_doc.png</file>
+        <file>rsc/Paste_doc.png</file>
+        <file>rsc/Save_all_doc.png</file>
+        <file>rsc/Save_as_doc.png</file>
+        <file>rsc/Save_doc.png</file>
+        <file>rsc/Select_all_doc.png</file>
+        <file>rsc/Viewer_doc.png</file>
+    </qresource>
+</RCC>
